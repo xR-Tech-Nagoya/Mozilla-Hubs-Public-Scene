@@ -17,11 +17,3 @@ https://hub.link/9Kmdwk8
 ![demo](https://github.com/xR-Tech-Nagoya/Mozilla-Hubs-Public-Scene/blob/main/ezgif-1-830c725640fb.gif?raw=true)
 
 https://hideaki.warashibe.market/articles/hE6nj2wo7
-
-＜History＞
-
-2021/02/03　Published the production process of two scenes
-
-・sauna_202110129　upload
-
-・barroom_20210131 upload
